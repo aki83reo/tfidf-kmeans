@@ -23,6 +23,8 @@ I dont  known much about those  talks , so cannot evaluate  much  , but  below a
 
 
 ##############################  MOST  SIMILAR  SPEAKERS AND THERE TOPICS BY CLUSTERS
+
+
 Cluster 0 
 titles: eve_ensler_on_happiness_in_body_and_soul
 , stew_says_black_men_ski
@@ -54,6 +56,9 @@ titles: dan_dennett_s_response_to_rick_warren
 , sirena_huang_dazzles_on_violin
 
 #################################################### MOST COMMON WORDS BY  CLUSTERS
+
+
+
 ,Cluster 0:
  women
  men
